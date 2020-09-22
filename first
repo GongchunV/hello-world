@@ -1,0 +1,7 @@
+//Verilog HDL
+//2020.9.22
+module （clk，rst，si_data,s2_data,s3_data,led1,ps2_clk,ps2_data)
+begin 
+input clk;
+input rst;
+//
